@@ -246,10 +246,10 @@ Open `powerbi/sydney_airbnb_analysis.pbix` in Power BI Desktop and refresh the d
 
 ## 👤 Author
 
-**Your Name**
+**JOSHUA PEREIRA**
 Data Analyst based in Sydney, Australia
 
-[LinkedIn](https://www.linkedin.com/in/your-profile) | [GitHub](https://github.com/your-username)
+
 
 <br>
 
